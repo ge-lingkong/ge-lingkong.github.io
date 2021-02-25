@@ -1,4 +1,4 @@
-# sora
+# lingkong
 ## 我是靈空
 ## 興趣是:ACGN
 ```C
