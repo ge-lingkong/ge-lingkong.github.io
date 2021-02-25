@@ -1,2 +1,10 @@
-# player-sora.github.io
-呵呵
+# sora
+## 我是靈空
+## 興趣是:ACGN
+```C
+#include <stdio.h>
+int main()
+{
+  printf("hello world!");
+}
+```
